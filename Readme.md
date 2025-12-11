@@ -10,13 +10,19 @@ Guide written with the following Edge version:
 
 <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/4a6d79f9-e8e1-402b-8035-ade4b242b993" />
 
-#1- Close your Work Profile Edge browser(s) - you can leave your Public Profile Edge browser(s) open, they won't be affected by the cache cleaning
+## Step 1
 
-#2- Open a fresh Edge browser on your Work Profile:
+Close your Work Profile Edge browser(s) - you can leave your Public Profile Edge browser(s) open, they won't be affected by the cache cleaning
+
+## Step 2
+
+Open a fresh Edge browser on your Work Profile:
 
 <img width=20% height=20% alt="image" src="https://github.com/user-attachments/assets/c904632a-ba56-4715-ac76-9d95ceef4f32" />
 
-#3- Go to "Settings and more":
+## Step 3
+
+Go to **[Settings and more]** on the top right corner of your browser :
 
 <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/69274280-9e5d-4c3c-9fd1-e7308b601da6" />
 
