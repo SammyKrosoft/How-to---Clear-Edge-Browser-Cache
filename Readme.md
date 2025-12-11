@@ -16,7 +16,8 @@ Guide written with the following Edge version:
 
 <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/69274280-9e5d-4c3c-9fd1-e7308b601da6" />
 
-and "Privacy, search, and services", and "Clear browsing data" button and then "Clear Now":
+
+and go to "Privacy, search, and services", and "Clear browsing data" button and then "Clear Now":
 
 <img width="70%" height="70%" alt="image" src="https://github.com/user-attachments/assets/ed16b9d4-9030-4069-a159-2c322db1480b" />
 
