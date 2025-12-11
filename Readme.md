@@ -4,8 +4,10 @@
 > <br>
 
 **Examples**:
- **||Files** for the Files menu on MS Word
- **[Start]** for the Windows "Start" menu
+ 
+ - **||Files** for the Files menu on MS Word
+ 
+ - **[Start]** for the Windows "Start" menu
 
 Example to clear the browser's cache on your Work profile - just to note that clearing the Edge browser's for a given profile will not affect the cache of the other profiles 👍🏽
 
