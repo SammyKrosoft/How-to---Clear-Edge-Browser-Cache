@@ -7,7 +7,7 @@
  
  - **||Files** for the Files menu on MS Word
  
- - **[Start]** for the Windows "Start" menu
+ - **[Start]** for the Windows "Start" button
 
 <br>
 
