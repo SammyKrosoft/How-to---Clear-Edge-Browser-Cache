@@ -2,6 +2,7 @@
 
 > Notation: on descriptions, Menus are indicated by a "||" prefixes, and buttons are surrounded by "[    ]"
 > <br>
+
 **Examples**:
  **||Files** for the Files menu on MS Word
  **[Start]** for the Windows "Start" menu
