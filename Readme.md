@@ -10,7 +10,7 @@ Guide written with the following Edge version:
 
 #2- Open a fresh Edge browser on your Work Profile:
 
-<img width=50% height=50% alt="image" src="https://github.com/user-attachments/assets/c904632a-ba56-4715-ac76-9d95ceef4f32" />
+<img width=20% height=20% alt="image" src="https://github.com/user-attachments/assets/c904632a-ba56-4715-ac76-9d95ceef4f32" />
 
 
 
