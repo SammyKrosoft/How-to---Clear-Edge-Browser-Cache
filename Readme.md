@@ -2,7 +2,9 @@
 
 > Notation: on descriptions, Menus are indicated by a "||" prefixes, and buttons are surrounded by "[    ]"
 > <br>
-> Eg: **||Files** for the Files menu on MS Word, or **[Start]** for the Windows "Start" menu
+**Examples**:
+ **||Files** for the Files menu on MS Word
+ **[Start]** for the Windows "Start" menu
 
 Example to clear the browser's cache on your Work profile - just to note that clearing the Edge browser's for a given profile will not affect the cache of the other profiles 👍🏽
 
