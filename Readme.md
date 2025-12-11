@@ -1,6 +1,6 @@
 # Clearing Edge brower's cache
 
-> Notation: on descriptions, Menus are indicated by a "||" prefixes, and buttons are surrounded by "[    ]"
+> Notation: on descriptions, Menus are indicated by a **||** prefixes, and buttons are surrounded by **[    ]**
 > <br>
 
 **Examples**:
