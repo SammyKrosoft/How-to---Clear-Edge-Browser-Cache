@@ -9,6 +9,8 @@
  
  - **[Start]** for the Windows "Start" menu
 
+<br>
+
 Example to clear the browser's cache on your Work profile - just to note that clearing the Edge browser's for a given profile will not affect the cache of the other profiles 👍🏽
 
 Guide written with the following Edge version:
